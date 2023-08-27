@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D165740C-4C8A-F3CA-1ACD-F1B3DE53D53F}",
+	"EngineAssociation": "{2B74A2AF-4170-EBF0-965A-F588D019EC46}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,10 @@
 		},
 		{
 			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
 			"Enabled": true
 		}
 	]
