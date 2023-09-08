@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/gitHub/MainProject 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Maps/Island.umap",
+				"E:/gitHub/MainProject 5.2/Content/OpenLand/Themes/Default/MI_OpenLand_Theme_Default.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/Surfaces/Lava_Stone_Ripple_tbhofjmr/Roughness_Lava_Stone_Ripple_tbhofjmr.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/Surfaces/Lava_Stone_Ripple_tbhofjmr/Displacement_Lava_Stone_Ripple_tbhofjmr.uasset",
+				"E:/gitHub/MainProject 5.2/Content/OpenLand/Grass/GT_SM2.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Plants/Tropical_Palm_rkqjj/MI_Tropical_Palm_rkqjj_2K.uasset",
+				"E:/gitHub/MainProject 5.2/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"E:/gitHub/MainProject 5.2/Content/OpenLand/Core/Materials/M_OpenLand.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Plants/Tropical_Palm_rkqjj/S_Tropical_Palm_rkqjj_Var1_lod1.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Plants/Tropical_Palm_rkqjj/MI_Tropical_Palm_rkqjj_Billboard_2K.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Assets/Palm_Tree_Trunk_ufwgaaifa/S_Palm_Tree_Trunk_ufwgaaifa_lod3_Var1.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Assets/Palm_Tree_Trunk_ufwgaaifa/MI_Palm_Tree_Trunk_ufwgaaifa_2K.uasset",
+				"E:/gitHub/MainProject 5.2/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"E:/gitHub/MainProject 5.2/Content/Megascans/3D_Plants/Dragon_Tree_wfypejzha/S_Dragon_Tree_wfypejzha_Var4_lod1.uasset"
+			]
+		}
+	]
+}
