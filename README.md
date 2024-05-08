@@ -1,2 +1,8 @@
-# MainProjectCS428
- Same as MainProject but this is on a newer version of UE5
+# Spar With Your Friends
+By: Lucien Lee
+
+This is the first ever project that I worked with Unreal Engine on. 
+
+This project uses Unreal Engine 5.3. Much of the porject was learning how Unreal Engine is used, as well as what it excels at, and what it could do better. 
+
+This project was done entirely with blueprints. There was no C++ code implimented other then the base Unreal Engine scripts and setup that were made in C++.
