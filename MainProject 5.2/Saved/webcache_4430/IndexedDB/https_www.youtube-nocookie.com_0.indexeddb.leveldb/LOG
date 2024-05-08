@@ -1,8 +1,0 @@
-2023/09/15-11:12:25.338 346c Reusing MANIFEST C:/Users/lee4219/Documents/GitHub Projects/MainProject/MainProject 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/15-11:12:25.338 346c Recovering log #4
-2023/09/15-11:12:25.339 346c Reusing old log C:/Users/lee4219/Documents/GitHub Projects/MainProject/MainProject 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
-2023/09/15-11:48:40.745 2eb8 Level-0 table #8: started
-2023/09/15-11:48:40.745 2eb8 Level-0 table #8: 0 bytes OK
-2023/09/15-11:48:40.750 2eb8 Delete type=0 #4
-2023/09/15-11:48:40.751 2eb8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/09/15-11:48:40.751 2eb8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
